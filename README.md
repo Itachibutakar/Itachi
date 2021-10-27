@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L4V1N14
 - 🌱 I’m currently learning python and js
-- 💞️ <a target="_blank" href="https://lavinia31.cf">Website</a>
+- 💞️ <a target="_blank" href="http://lavinia31.cf">Website</a>
 - 📫 discord.gg/97
 
 <!---
