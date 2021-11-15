@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @L4V1N14
-- 🌱 I’m currently learning python and js
-- 💞️ <a target="_blank" href="http://lavinia31.cf">Website</a>
-- 📫 discord.gg/97
+- 🌱 I’m currently learning python,php,css,html and js
+- 💞️ <a target="_blank" href="http://itachibusiness.cf">Website</a>
 
 <!---
 L4V1N14/L4V1N14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
